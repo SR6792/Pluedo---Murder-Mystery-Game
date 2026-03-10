@@ -1,0 +1,10 @@
+{
+    "_default": {
+        "1": {"level": 1, "name": "Butler", "info": "I was polishing silver until 11 PM.", "is_guilty": false},
+        "2": {"level": 1, "name": "Son", "info": "I was speaking to my father until 8 PM.", "is_guilty": true},
+        "3": {"level": 2, "name": "Mark Wain", "info": "I was in the library till 7 PM.", "is_guilty": true},
+        "4": {"level":1,"name":"Wife","info":"At 10pm I went to see my husband in his room where i was accompanied by the maid,where we met the dead body of my dear husband","is_guilty":false},
+        "5": {"level": 1, "name": "Maid", "info":"I was preparing food till 10pm,then I went to Master's room to fetch him for dinner,which is when i saw the dead body.Madam also was with Me.", "is_guilty": false}
+
+    }
+}
